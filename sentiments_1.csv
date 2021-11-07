@@ -10,12 +10,12 @@
 8,8,Love the shades and the stay!,"{'neg': 0.0, 'neu': 0.527, 'pos': 0.473, 'compound': 0.6696}",0.6696,positive
 9,9,"VERY pigmented, long-lasting, great deal","{'neg': 0.0, 'neu': 0.443, 'pos': 0.557, 'compound': 0.7204}",0.7204,positive
 10,10,"Faves for a Warm Undertone (Deep Autumn) South Asian: 50, 80, 160, and 275","{'neg': 0.0, 'neu': 0.863, 'pos': 0.137, 'compound': 0.2263}",0.2263,positive
-11,11,Not as drying as others,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral
-12,12,Holy Grail Lipstick!,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral
+11,11,Holy Grail Lipstick!,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral
+12,12,Not as drying as others,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral
 13,13,I love the SuperStay Mattes! It needs to be easier to identify color #'s and names tho -,"{'neg': 0.0, 'neu': 0.658, 'pos': 0.342, 'compound': 0.807}",0.807,positive
 14,14,If you're crunchy it's not for you.,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral
-15,15,Beautiful,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.5994}",0.5994,positive
-16,16,Huntress is Fierce!,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral
+15,15,Huntress is Fierce!,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral
+16,16,Beautiful,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.5994}",0.5994,positive
 17,17,Sticks!,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral
 18,18,Great wedding day lipstick!,"{'neg': 0.0, 'neu': 0.406, 'pos': 0.594, 'compound': 0.6588}",0.6588,positive
 19,19,Liquid Gold,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral
@@ -76,13 +76,12 @@
 74,74,Winner winner chicken dinner !,"{'neg': 0.0, 'neu': 0.202, 'pos': 0.798, 'compound': 0.8356}",0.8356,positive
 75,75,I want them all!,"{'neg': 0.0, 'neu': 0.557, 'pos': 0.443, 'compound': 0.1511}",0.1511,positive
 76,76,Listen to the 1 star reviews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral
-77,77,Came broke and can't return,"{'neg': 0.412, 'neu': 0.588, 'pos': 0.0, 'compound': -0.4215}",-0.4215,negative
-78,78,The Mocha Inventor color is perfect for African American or darker skin tones!,"{'neg': 0.0, 'neu': 0.75, 'pos': 0.25, 'compound': 0.6114}",0.6114,positive
-79,79,Will buy again!!,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral
-80,80,This Stuff Stays Put,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral
-81,81,Love the color!,"{'neg': 0.0, 'neu': 0.308, 'pos': 0.692, 'compound': 0.6696}",0.6696,positive
-82,82,Maybelline Got It Right!,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral
-83,83,Stays PUT!,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral
-84,84,Amazing Matte Long Wear,"{'neg': 0.0, 'neu': 0.441, 'pos': 0.559, 'compound': 0.5859}",0.5859,positive
-85,85,Stays put but feels sticky,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral
-86,86,I usually don't like lipstick but I like this.,"{'neg': 0.458, 'neu': 0.542, 'pos': 0.0, 'compound': -0.4973}",-0.4973,negative
+77,77,Wonderful product.,"{'neg': 0.0, 'neu': 0.213, 'pos': 0.787, 'compound': 0.5719}",0.5719,positive
+78,78,Came broke and can't return,"{'neg': 0.412, 'neu': 0.588, 'pos': 0.0, 'compound': -0.4215}",-0.4215,negative
+79,79,The Mocha Inventor color is perfect for African American or darker skin tones!,"{'neg': 0.0, 'neu': 0.75, 'pos': 0.25, 'compound': 0.6114}",0.6114,positive
+80,80,Will buy again!!,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral
+81,81,This Stuff Stays Put,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral
+82,82,Love the color!,"{'neg': 0.0, 'neu': 0.308, 'pos': 0.692, 'compound': 0.6696}",0.6696,positive
+83,83,Maybelline Got It Right!,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral
+84,84,Stays PUT!,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral
+85,85,Amazing Matte Long Wear,"{'neg': 0.0, 'neu': 0.441, 'pos': 0.559, 'compound': 0.5859}",0.5859,positive
