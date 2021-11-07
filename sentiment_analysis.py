@@ -12,14 +12,14 @@ with header:
     st.title('Amazon Product Reviews Analysis')
     st.text('SELECT ANY E-COMMERCE WEBSITE')
     AMAZON = st.button("AMAZON")
-    DARAZ  = st.button("DARAZ")
+    # DARAZ  = st.button("DARAZ")
 
-if DARAZ == True:
-    with model_training:
-        st.header('Drop the link')
+# if DARAZ == True:
+#     with model_training:
+#         st.header('Drop the link')
 
-        sel_col, disp_col = st.columns(2)
-        n_estimators = sel_col.text_input('Please drop the link of product reviews to see the analysis','https://www.daraz.pk/products/p47-wireless-headphones-bluetooth-stereo-head-phones-foldable-headset-with-mic-wireless-built-in-mic-compaible-for-all-android-devices-and-pc-i220638343-s1434420364.html?spm=a2a0e.searchlist.list.7.717d40200AoMv2&search=1')
+#         sel_col, disp_col = st.columns(2)
+#         n_estimators = sel_col.text_input('Please drop the link of product reviews to see the analysis','https://www.daraz.pk/products/p47-wireless-headphones-bluetooth-stereo-head-phones-foldable-headset-with-mic-wireless-built-in-mic-compaible-for-all-android-devices-and-pc-i220638343-s1434420364.html?spm=a2a0e.searchlist.list.7.717d40200AoMv2&search=1')
 
 if AMAZON == True:
     with model_training:
@@ -73,7 +73,7 @@ def scrape_DARAZ(x):
     scraper_1.load('DARAZ-Reviews')
     link = x
     result_1 = []
-    for i in range(1, 20):
+    for i in range(1, 10):
         result = scraper_1.get_result_similar(
             link+str(i), group_by_alias=True)
         result_1.append(result['Review_Title'])
@@ -89,8 +89,8 @@ def scrape_DARAZ(x):
 if AMAZON == True:
     scrape(n_estimators)
 
-if DARAZ == True:
-    scrape_DARAZ(n_estimators)
+# if DARAZ == True:
+#     scrape_DARAZ(n_estimators)
 
 nltk.download('vader_lexicon')
 
@@ -103,7 +103,8 @@ def parse_values(x):
     else:
         return 'positive'
 
-if AMAZON == True or DARAZ == True:
+# if AMAZON == True or DARAZ == True:
+if AMAZON == True:
     sid = SentimentIntensityAnalyzer()
     df1 = pd.read_csv('product_reviews.csv')
     df1['prodct_review'].isnull().sum()

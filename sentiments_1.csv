@@ -36,20 +36,20 @@
 34,34,My Holy Grail lip color,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral
 35,35,Love this lipstick!!,"{'neg': 0.0, 'neu': 0.295, 'pos': 0.705, 'compound': 0.6988}",0.6988,positive
 36,36,"""Ground Breaker"" red color","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral
-37,37,Would buy again,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral
-38,38,Smudge proof,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral
-39,39,It's a lipstick,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral
-40,40,Truly amazing. Believe the hype,"{'neg': 0.0, 'neu': 0.309, 'pos': 0.691, 'compound': 0.7717}",0.7717,positive
-41,41,Seductress is better,"{'neg': 0.0, 'neu': 0.408, 'pos': 0.592, 'compound': 0.4404}",0.4404,positive
-42,42,180 - Revolutionary- Love this color,"{'neg': 0.0, 'neu': 0.488, 'pos': 0.512, 'compound': 0.6369}",0.6369,positive
-43,43,Perfect Color!,"{'neg': 0.0, 'neu': 0.2, 'pos': 0.8, 'compound': 0.6114}",0.6114,positive
-44,44,Absolutely incredible for the price! (15 Lover),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral
-45,45,I ordered Dreamer this time and it's my favorite so far,"{'neg': 0.0, 'neu': 0.75, 'pos': 0.25, 'compound': 0.4588}",0.4588,positive
-46,46,Stays and looks hydrated,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral
-47,47,"Was this previously opened/used? Also, not the color I was expecting.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral
-48,48,AWESOME LIPPY!!,"{'neg': 0.0, 'neu': 0.176, 'pos': 0.824, 'compound': 0.6892}",0.6892,positive
-49,49,Wanted to love.,"{'neg': 0.0, 'neu': 0.323, 'pos': 0.677, 'compound': 0.6369}",0.6369,positive
-50,50,The hype is real!!,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral
+37,37,180 - Revolutionary- Love this color,"{'neg': 0.0, 'neu': 0.488, 'pos': 0.512, 'compound': 0.6369}",0.6369,positive
+38,38,Would buy again,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral
+39,39,The hype is real!!,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral
+40,40,Smudge proof,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral
+41,41,It's a lipstick,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral
+42,42,Truly amazing. Believe the hype,"{'neg': 0.0, 'neu': 0.309, 'pos': 0.691, 'compound': 0.7717}",0.7717,positive
+43,43,Seductress is better,"{'neg': 0.0, 'neu': 0.408, 'pos': 0.592, 'compound': 0.4404}",0.4404,positive
+44,44,Perfect Color!,"{'neg': 0.0, 'neu': 0.2, 'pos': 0.8, 'compound': 0.6114}",0.6114,positive
+45,45,Absolutely incredible for the price! (15 Lover),"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral
+46,46,I ordered Dreamer this time and it's my favorite so far,"{'neg': 0.0, 'neu': 0.75, 'pos': 0.25, 'compound': 0.4588}",0.4588,positive
+47,47,Stays and looks hydrated,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral
+48,48,"Was this previously opened/used? Also, not the color I was expecting.","{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral
+49,49,AWESOME LIPPY!!,"{'neg': 0.0, 'neu': 0.176, 'pos': 0.824, 'compound': 0.6892}",0.6892,positive
+50,50,Wanted to love.,"{'neg': 0.0, 'neu': 0.323, 'pos': 0.677, 'compound': 0.6369}",0.6369,positive
 51,51,Way too sticky and hard to get off,"{'neg': 0.167, 'neu': 0.833, 'pos': 0.0, 'compound': -0.1027}",-0.1027,negative
 52,52,Perfect!,"{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.6114}",0.6114,positive
 53,53,This stuff is INVINCIBLE,"{'neg': 0.0, 'neu': 0.433, 'pos': 0.567, 'compound': 0.6037}",0.6037,positive
@@ -78,10 +78,11 @@
 76,76,Listen to the 1 star reviews,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral
 77,77,Wonderful product.,"{'neg': 0.0, 'neu': 0.213, 'pos': 0.787, 'compound': 0.5719}",0.5719,positive
 78,78,Came broke and can't return,"{'neg': 0.412, 'neu': 0.588, 'pos': 0.0, 'compound': -0.4215}",-0.4215,negative
-79,79,The Mocha Inventor color is perfect for African American or darker skin tones!,"{'neg': 0.0, 'neu': 0.75, 'pos': 0.25, 'compound': 0.6114}",0.6114,positive
-80,80,Will buy again!!,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral
-81,81,This Stuff Stays Put,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral
-82,82,Love the color!,"{'neg': 0.0, 'neu': 0.308, 'pos': 0.692, 'compound': 0.6696}",0.6696,positive
-83,83,Maybelline Got It Right!,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral
-84,84,Stays PUT!,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral
-85,85,Amazing Matte Long Wear,"{'neg': 0.0, 'neu': 0.441, 'pos': 0.559, 'compound': 0.5859}",0.5859,positive
+79,79,I usually don't like lipstick but I like this.,"{'neg': 0.458, 'neu': 0.542, 'pos': 0.0, 'compound': -0.4973}",-0.4973,negative
+80,80,The Mocha Inventor color is perfect for African American or darker skin tones!,"{'neg': 0.0, 'neu': 0.75, 'pos': 0.25, 'compound': 0.6114}",0.6114,positive
+81,81,Will buy again!!,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral
+82,82,This Stuff Stays Put,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral
+83,83,Love the color!,"{'neg': 0.0, 'neu': 0.308, 'pos': 0.692, 'compound': 0.6696}",0.6696,positive
+84,84,Maybelline Got It Right!,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral
+85,85,Stays PUT!,"{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}",0.0,neutral
+86,86,Amazing Matte Long Wear,"{'neg': 0.0, 'neu': 0.441, 'pos': 0.559, 'compound': 0.5859}",0.5859,positive
